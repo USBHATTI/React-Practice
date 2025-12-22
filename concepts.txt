@@ -1,0 +1,14 @@
+state lifting
+
+Immediate Function Invocation (Wrong Event Binding)
+
+useEffects
+
+prop Drilling -->  useContext
+
+Dynamic Routing --> import {createBrowserRouter, RouterProvider} from 'react-router-dom' use path and element --> use Link and Navlink istead on <a>
+ --> useParams();
+ NewHook --> useNavigate (to navigate between pages)
+
+
+

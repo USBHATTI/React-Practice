@@ -1,0 +1,14 @@
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding-right: 10px;
+    background-color: #bfaeae;
+
+    display: flex;
+    justify-content: space-between;
+}
+.active-Link{
+    font-weight: bold;
+    color: red;
+    border: 2px solid black;
+}

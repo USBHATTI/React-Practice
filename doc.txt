@@ -1,3 +1,5 @@
 rafce => shortcut to make a compoment
 
+npm create vite@latest
+
 
