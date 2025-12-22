@@ -2,6 +2,8 @@ rafce => shortcut to make a compoment
 
 npm create vite@latest
 
+https://react-hook-form.com/get-started
 npm install react-hook-form
 
+https://redux-toolkit.js.org/introduction/getting-started
 
