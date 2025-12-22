@@ -10,5 +10,6 @@ Dynamic Routing --> import {createBrowserRouter, RouterProvider} from 'react-rou
  --> useParams();
  NewHook --> useNavigate (to navigate between pages)
 
+React-Hook-Form --> useForm
 
 
