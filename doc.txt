@@ -6,4 +6,6 @@ https://react-hook-form.com/get-started
 npm install react-hook-form
 
 https://redux-toolkit.js.org/introduction/getting-started
+npm install @reduxjs/toolkit
+npm install react-redux
 

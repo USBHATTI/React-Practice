@@ -12,4 +12,6 @@ Dynamic Routing --> import {createBrowserRouter, RouterProvider} from 'react-rou
 
 React-Hook-Form --> useForm
 
+React-Reduc_toolkit  -- Action - Store - Reducer - State - Slice --
+
 
