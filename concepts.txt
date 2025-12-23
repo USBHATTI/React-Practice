@@ -14,4 +14,12 @@ React-Hook-Form --> useForm
 
 React-Reduc_toolkit  -- Action - Store - Reducer - State - Slice --
 
+useRef -- Persist value across renders without triggering re-render; store DOM refs, timers, previous values
+
+useMemo -- Memoize value of expensive calculation to avoid recalculating on every render
+
+React.memo -- Prevent child component from re-rendering if props didn’t change
+
+useCallback -- Memoize function reference to avoid creating new function every render
+
 
